@@ -34,6 +34,9 @@
             <ray>
                 <scan>
                     <horizontal>
+                        <!--samples>30</samples>
+                        <min_angle>-0.26</min_angle>
+                        <max_angle>0.26</max_angle-->
                         <samples>360</samples>
                         <min_angle>-3.14</min_angle>
                         <max_angle>3.14</max_angle>
